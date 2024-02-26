@@ -1,0 +1,131 @@
+*.section1{
+    background-image: url("./background\ image.jpg");
+background-color: antiquewhite;
+height: 800px;width: auto;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;  padding-left: 150px;
+}
+
+
+img{padding-top: 75px;
+    width: 250px;
+    height: 150px;
+    display: block;
+
+    
+}
+h1{
+    color:goldenrod;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size:65px;
+}
+p{
+
+    color:grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 25px;
+}
+button{height: 50px;
+    background-color: goldenrod;
+    border: tan;
+    width:200px ;
+    color:midnightblue;
+    
+}
+
+.section2{display: flex;flex-direction: row;justify-content: center;background-color: beige;
+     
+
+}
+.flex1{
+    height: 800px;width: 1000px;background-color:beige; padding-top:100px ;padding-left: 150px;
+}
+.flex2{
+    height: 800px;width:1000px;background-color:beige;text-align: center;padding-top:  100px;
+}
+#w{
+    width: auto;
+    height: 550px;
+    padding-left: 150px;}
+   
+
+    
+h2{
+    font-size: 50px;
+    color: midnightblue;
+    
+
+}
+p1{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+}
+.section3{background-image: url("./law.jpg");
+    height: 800px;width: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+            background-size: cover;
+                margin: 0px;}
+            
+
+h3{
+    color:goldenrod;text-align: center;font-size:50px;padding-top: 30px;margin: 0px;
+   }
+
+
+   h5{
+   color:goldenrod;text-align: center;font-size:20px;margin-top: 40px;
+   
+   }
+.flex{
+    display: flex;flex-direction: row;justify-content:space-around;align-items: center;justify-content: center;margin-top: 200px;
+}
+.flex3,.flex4,.flex5{border: 2px solid goldenrod; color:white; padding-top: 25px;padding-bottom: 25px;padding-right: 15px;
+
+padding-left: 10px; margin: 10px; font-size: 20px;}
+
+    
+#contact{
+    margin: 0px; color: midnightblue;
+}
+#img1{
+    height: 35px;width: 100px;padding-top: 30px;
+}
+#img2{
+
+height: 35px;width: 100px;padding-top: 30px;
+}
+#img3{height: 35px;width: 100px;padding-top: 30px;
+}
+
+
+#img4{height: 60px;width: 150px; padding-top: 45px;
+}
+
+#img5{height: 60px;width: 150px;padding-top: 45px;
+}
+ 
+#img6{height: 60px;width: 150px;padding-top: 45px;
+}
+ 
+
+
+
+
+
+p4,p5{
+    color:midnightblue;font-size: 20px;
+}
+#mts{
+    color: burlywood;
+}
+.section4{padding-left: 50px;
+    
+}
+h6{
+    font-size: 15px; color: midnightblue;font-size: 25px;
+} 
+.ab{
+    display: flex;flex-direction: row;
+}
+ 
